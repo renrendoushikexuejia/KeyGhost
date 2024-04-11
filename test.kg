@@ -1,0 +1,67 @@
+{
+    "action1": {
+        "type": "ClickLeftMulti",
+        "X": "1300",
+        "Y": "400",
+        "XOffset": "50",
+        "YOffset": "100",
+        "duration": "1.5",
+        "durationOffset": "0.4",
+        "actionParam1": "0",
+        "actionParam2": "0",
+        "actionParam3": "0",
+        "actionNote": "\u5907\u6ce8"
+    },
+    "action2": {
+        "type": "FakeTime",
+        "X": "0",
+        "Y": "0",
+        "XOffset": "0",
+        "YOffset": "0",
+        "duration": "1.5",
+        "durationOffset": "0.4",
+        "actionParam1": "0",
+        "actionParam2": "0",
+        "actionParam3": "0",
+        "actionNote": "\u5907\u6ce8"
+    },
+    "action3": {
+        "type": "MoveTo",
+        "X": "0",
+        "Y": "0",
+        "XOffset": "0",
+        "YOffset": "0",
+        "duration": "1.5",
+        "durationOffset": "0.4",
+        "actionParam1": "0",
+        "actionParam2": "0",
+        "actionParam3": "0",
+        "actionNote": "\u5907\u6ce8"
+    },
+    "action4": {
+        "type": "Scroll",
+        "X": "0",
+        "Y": "0",
+        "XOffset": "0",
+        "YOffset": "0",
+        "duration": "1.5",
+        "durationOffset": "0.4",
+        "actionParam1": "0",
+        "actionParam2": "0",
+        "actionParam3": "0",
+        "actionNote": "\u5907\u6ce8"
+    },
+    "action5": {
+        "type": "ClickLeft",
+        "X": "0",
+        "Y": "0",
+        "XOffset": "0",
+        "YOffset": "0",
+        "duration": "1.5",
+        "durationOffset": "0.4",
+        "actionParam1": "0",
+        "actionParam2": "0",
+        "actionParam3": "0",
+        "actionNote": "\u5907\u6ce8"
+    }
+}
